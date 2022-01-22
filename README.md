@@ -1,6 +1,6 @@
 I am Karma.
-Currently an undergraduate student studying computer science and engineering. 
-Expected to graduate in 2025.
+Currently an undergraduate student studying computer science and engineering specialization in data science. 
+Expected to graduate in 2026.
 
 
 <!---
